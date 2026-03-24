@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/заметки.md",
+                "file": "yarn.lock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "заметки"
+              "title": "yarn.lock"
             }
           }
         ],
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/заметки.md",
+                "file": "yarn.lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for заметки"
+              "title": "Backlinks for yarn.lock"
             }
           },
           {
@@ -158,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/заметки.md",
+                "file": "yarn.lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from заметки"
+              "title": "Outgoing links from yarn.lock"
             }
           },
           {
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/заметки.md",
+                "file": "yarn.lock.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of заметки"
+              "title": "Outline of yarn.lock"
             }
           }
         ]
@@ -231,6 +231,7 @@
   "active": "97981ba00fc95a6c",
   "lastOpenFiles": [
     "passwords/Пароли.md",
+    "yarn.lock.md",
     "notes/заметки.md",
     "Welcome.md",
     "passwords",
